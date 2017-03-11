@@ -1,0 +1,18 @@
+env:
+  es6: true
+  node: true
+  mocha: true
+extends: airbnb-base
+parser: babel-eslint
+plugins:
+  - flowtype
+  - flow-vars
+globals:
+  fetch: true
+rules:
+  semi:
+    - error
+    - never
+  no-restricted-syntax: 0
+  no-trailing-spaces: 0
+  import/no-extraneous-dependencies: 0

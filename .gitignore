@@ -1,0 +1,5 @@
+node_modules
+bin
+claudia*.json
+env.json
+src/test.js
