@@ -1,6 +1,8 @@
 github-participating-notifications
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gaishimo/github-participating-notifications.svg)](https://greenkeeper.io/)
+
 This is a lambda tool :hammer: that sends github participating notifications to your slack channel 🔉.
 
 ## Description
